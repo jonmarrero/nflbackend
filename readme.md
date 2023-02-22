@@ -17,11 +17,5 @@ Show|/teams/:id|GET|Show a specific team|
 |Update|/teams/:id|PUT|Update a team|
 |Delete|/teams/:id|DELETE|Delete a team|
 
-|  name 	|   url	|   http verb	|   description	|   
-|---	|---	|---	|---	|---	|
-|  index 	|  /teams 	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-
 # Trello
 https://trello.com/b/1iKw0tsO/nfl-team-tracker
