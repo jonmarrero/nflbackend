@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    "nfl.apps.nflprojectConfig", 
+    "nfls.apps.nflprojectConfig", 
     "rest_framework",
     "corsheaders"
 ]
